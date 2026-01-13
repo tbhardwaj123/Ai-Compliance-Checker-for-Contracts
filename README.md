@@ -1,7 +1,7 @@
 📜 AI-Powered Regulatory Compliance Checker for Contracts
 An AI-based compliance checker that scans legal contracts to identify risks, missing clauses, and regulatory non-compliance.
 
-🚀 Project Overview
+#🚀 Project Overview
 Manual contract compliance review is time-consuming, error-prone, and difficult to scale.
 This project solves that problem by using Large Language Models (LLMs) to:
 
