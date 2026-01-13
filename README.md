@@ -60,7 +60,7 @@ Outputs + Notifications + Audit Logs
 │   │   ├── amendment_generator.py
 │   │   ├── gap_analyzer.py
 │   │   └── contract_rebuilder.py
-│   ├── regulatory/
+│   ├── regulatory/ 
 │   │   ├── gdpr_live_tracker.py
 │   │   └── hipaa_live_tracker.py
 │   ├── llm/
