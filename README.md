@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Run the pipeline 
 python run.py --pdf data\raw\contract1.pdf
 
